@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fusioncharts-gauge-react-app/static/css/main.7675890a.chunk.css",
+    "main.js": "/fusioncharts-gauge-react-app/static/js/main.014ec14e.chunk.js",
+    "main.js.map": "/fusioncharts-gauge-react-app/static/js/main.014ec14e.chunk.js.map",
+    "runtime-main.js": "/fusioncharts-gauge-react-app/static/js/runtime-main.3220b28b.js",
+    "runtime-main.js.map": "/fusioncharts-gauge-react-app/static/js/runtime-main.3220b28b.js.map",
+    "static/js/2.362d2f3f.chunk.js": "/fusioncharts-gauge-react-app/static/js/2.362d2f3f.chunk.js",
+    "static/js/2.362d2f3f.chunk.js.map": "/fusioncharts-gauge-react-app/static/js/2.362d2f3f.chunk.js.map",
+    "index.html": "/fusioncharts-gauge-react-app/index.html",
+    "precache-manifest.7626f477d995bcc93e6e1d88962d42b6.js": "/fusioncharts-gauge-react-app/precache-manifest.7626f477d995bcc93e6e1d88962d42b6.js",
+    "service-worker.js": "/fusioncharts-gauge-react-app/service-worker.js",
+    "static/css/main.7675890a.chunk.css.map": "/fusioncharts-gauge-react-app/static/css/main.7675890a.chunk.css.map",
+    "static/js/2.362d2f3f.chunk.js.LICENSE": "/fusioncharts-gauge-react-app/static/js/2.362d2f3f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/fusioncharts-gauge-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3220b28b.js",
+    "static/js/2.362d2f3f.chunk.js",
+    "static/css/main.7675890a.chunk.css",
+    "static/js/main.014ec14e.chunk.js"
+  ]
+}
